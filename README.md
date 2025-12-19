@@ -23,6 +23,7 @@ Folder Structure and Description
   3. Robustness Checks
   This folder documents the robustness and validation procedures applied to the main findings.
   Specifically, it includes materials for:
+  Sensitivity analysis, conducted using the Sample-Adjusted Meta-Analytic Deviancy (SAMD) statistic to identify influential effect sizes and re-estimate the model after their removal;
   Publication bias assessment, including Egger’s regression test and fail-safe N statistics.
   Across all robustness checks, the core conclusions remain stable: governance exhibits the strongest valuation effect, environmental performance is discounted, and social performance does not show an independent pricing effect once cross-dimensional dependencies are accounted for.
 
