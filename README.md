@@ -23,17 +23,12 @@ All reported structural coefficients, model fit indices, and explained variance 
 3. Robustness and Validation Procedures
 This component documents the stability of the structural findings under alternative specifications and bias diagnostics.
 The robustness materials include:
-Sensitivity analyses using the Sample-Adjusted Meta-Analytic Deviancy (SAMD) statistic to identify influential effect sizes and re-estimate the structural model following their removal
-
-Publication bias diagnostics, including Egger regression tests
-
-Rosenthal’s fail-safe N calculations
-
-Trim-and-Fill adjustments for potential small-study effects
-
+(1)Sensitivity analyses using the Sample-Adjusted Meta-Analytic Deviancy (SAMD) statistic to identify influential effect sizes and re-estimate the structural model following their removal
+(2)Publication bias diagnostics, including Egger regression tests
+(3)Rosenthal’s fail-safe N calculations
+(4)Trim-and-Fill adjustments for potential small-study effects
 Across all validation procedures, the core asymmetric valuation structure remains substantively stable: governance maintains the strongest positive association 
 with firm market valuation, environmental performance exhibits a negative average association, and social performance does not display consistent independent pricing power once cross-dimensional correlations are modeled.
-
 These results confirm that the differentiated valuation configuration is not driven by influential observations or publication-related distortions.
 
 Replicability Statement
