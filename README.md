@@ -16,13 +16,11 @@ Following PRISMA-guided screening and eligibility assessment, 219 primary studie
 
 2. Main Meta-Analytic Structural Equation Modeling (MASEM) Analysis
 This component contains the analytical infrastructure required to reproduce the two-stage structural estimation.
-
 In Stage 1, effect sizes were transformed using Fisher’s Z and synthesized under a random-effects specification to construct the integrated meta-analytic correlation matrix. The pooled matrix incorporates associations among environmental, social, and governance dimensions, firm market valuation, and firm-level covariates. A harmonic mean sample size was applied to ensure statistical compatibility across heterogeneous primary samples.
 In Stage 2, a structural equation model was estimated to isolate the independent net effects of each ESG dimension on corporate market valuation while explicitly modeling cross-dimensional interdependencies and controlling for firm size, firm age, and leverage. This multivariate framework enables the disentangling of dimension-specific valuation pathways that are obscured in bivariate analyses due to high covariance among ESG components.
 All reported structural coefficients, model fit indices, and explained variance statistics can be replicated directly using the scripts and correlation matrices provided in this folder.
 
 3. Robustness and Validation Procedures
-
 This component documents the stability of the structural findings under alternative specifications and bias diagnostics.
 The robustness materials include:
 Sensitivity analyses using the Sample-Adjusted Meta-Analytic Deviancy (SAMD) statistic to identify influential effect sizes and re-estimate the structural model following their removal
