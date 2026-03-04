@@ -33,17 +33,6 @@ These results confirm that the differentiated valuation configuration is not dri
 
 Replicability Statement
 All datasets are organized at the study level and linked through unique Research IDs, enabling full reconstruction of the empirical workflow. Researchers can replicate:
-
-Systematic literature screening and eligibility filtering
-
-Effect-size extraction and Fisher’s Z transformation
-
-Random-effects meta-analytic synthesis
-
-Construction of the integrated correlation matrix
-
-Two-stage structural equation modeling estimation
-
-Outlier diagnostics and publication bias correction
+Systematic literature screening and eligibility filtering; Effect-size extraction and Fisher’s Z transformation; Random-effects meta-analytic synthesis; Construction of the integrated correlation matrix; Two-stage structural equation modeling estimation; Outlier diagnostics and publication bias correction
 
 By providing pooled correlation matrices, effective sample size specifications, and executable structural scripts, this repository ensures computational transparency and full reproducibility of the disentangled ESG valuation framework developed in the study.
