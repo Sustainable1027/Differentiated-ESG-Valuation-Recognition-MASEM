@@ -32,6 +32,7 @@ with firm market valuation, environmental performance exhibits a negative averag
 These results confirm that the differentiated valuation configuration is not driven by influential observations or publication-related distortions.
 
 Replicability Statement
+
 All datasets are organized at the study level and linked through unique Research IDs, enabling full reconstruction of the empirical workflow. Researchers can replicate:
 Systematic literature screening and eligibility filtering; Effect-size extraction and Fisher’s Z transformation; Random-effects meta-analytic synthesis; Construction of the integrated correlation matrix; Two-stage structural equation modeling estimation; Outlier diagnostics and publication bias correction
 
