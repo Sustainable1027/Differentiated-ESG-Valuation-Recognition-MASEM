@@ -1,6 +1,6 @@
 Repository Overview
 
-This repository provides the complete empirical infrastructure supporting the study “Disentangling the Valuation Effects of ESG Dimensions: Evidence from Meta-Analytic Structural Equation Modeling.”
+This repository provides the complete empirical infrastructure supporting the study “Disentangling the Differentiated Valuation Relevance of ESG Dimensions: Global Evidence from Meta-Analytic Structural Equation Modeling”
 
 The repository is designed to ensure methodological transparency, analytical traceability, and full computational replicability of the two-stage Meta-Analytic Structural Equation Modeling (MASEM) framework employed in the paper. It mirrors the sequential logic of the research design, beginning with systematic literature identification and effect-size extraction, proceeding to correlation matrix construction, and culminating in multivariate structural estimation and robustness validation.
 
