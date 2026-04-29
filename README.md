@@ -1,6 +1,6 @@
 Repository Overview
 
-This repository provides the complete empirical infrastructure for the study, “Disentangling the Differentiated Valuation Relevance of ESG Dimensions: Global Evidence from Meta-Analytic Structural Equation Modeling.” It is designed to ensure methodological transparency, analytical traceability, and full computational replicability of the two-stage Meta-Analytic Structural Equation Modeling (MASEM) framework implemented in the paper.
+This repository provides the complete empirical infrastructure for the study, “Why capital markets recognize ESG dimensions unevenly: Global evidence from meta-analytic structural equation modeling”. It is designed to ensure methodological transparency, analytical traceability, and full computational replicability of the two-stage Meta-Analytic Structural Equation Modeling (MASEM) framework implemented in the paper.
 
 The repository follows the sequential logic of the research design. It begins with systematic literature identification and effect-size extraction, proceeds to the construction of the meta-analytic correlation matrix, and culminates in multivariate structural estimation and robustness validation. Rather than functioning as a supplementary archive, the repository serves as the structured empirical backbone of the study.
 
@@ -14,7 +14,7 @@ The repository is organized into three interrelated components corresponding to 
 
   This component contains the master dataset underlying the systematic review and quantitative synthesis. Each primary study is assigned a unique Research ID to ensure consistent linkage across coding records, extracted effect sizes, and subsequent diagnostic procedures.
   The database documents bibliographic information, ESG dimensional operationalization, valuation measures, and sample characteristics. Only peer-reviewed empirical studies reporting standalone environmental, social, and governance indicators in relation to firm-level market valuation were retained. Studies relying exclusively on composite ESG scores without dimensional decomposition were excluded in order to preserve the structural independence required to identify differentiated valuation effects across ESG dimensions.
-  Following PRISMA-guided screening and eligibility assessment, 219 primary studies were included, contributing 1,445 independent effect sizes. These effect sizes constitute the empirical basis for the subsequent meta-analytic synthesis and structural modeling.
+  Following PRISMA-guided screening and eligibility assessment, 219 primary studies were included, contributing 1,486 independent effect sizes. These effect sizes constitute the empirical basis for the subsequent meta-analytic synthesis and structural modeling.
 
 2. Main Meta-Analytic Structural Equation Modeling (MASEM) Analysis
 
