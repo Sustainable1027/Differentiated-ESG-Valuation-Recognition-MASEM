@@ -35,7 +35,7 @@ Across all validation procedures, the core asymmetric valuation structure remain
 with firm market valuation, environmental performance exhibits a negative average association, and social performance does not display consistent independent pricing power once cross-dimensional correlations are modeled.
 These results confirm that the differentiated valuation configuration is not driven by influential observations or publication-related distortions.
 
-Replicability Statement
+4.Replicability Statement
 
 All datasets are organized at the study level and linked through unique Research IDs, enabling full reconstruction of the empirical workflow. Using the materials provided in this repository, researchers can replicate:
 
